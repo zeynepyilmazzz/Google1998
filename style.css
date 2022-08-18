@@ -1,0 +1,68 @@
+.resim{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.search{
+    text-align: center;
+    font-size: 200%;
+    padding: 2px;
+   
+    
+}
+
+.kutular{
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0px 0px;
+  cursor: pointer;
+}
+
+.sutun1{
+    margin:0.05%;
+    width: 37%;
+    background-color: #7EE5DA;
+    float:left;
+    height: 124.4px;
+    text-align: center;
+}
+
+.sutun2{
+    
+    margin:0.05%;
+    width: 19.9%;
+    background-color: #70CCC2;
+    float:left;
+    height: 124.4px;
+    text-align: center;
+}
+
+.sutun3{
+  
+    margin:0.05%;
+    width: 42.8%;
+    background-color: #62B3AA;
+    float:right;
+    height: 124.4px;
+    text-align: center;
+    
+}
+p{
+    margin:0px;
+}
+
+.input1{
+    width: 295px;
+}
+
+
+footer{
+    margin: 90px;
+    text-align: center;
+    font-size: 32px;
+}
